@@ -1,0 +1,46 @@
+{
+    "1": {
+        "name": "Juanito",
+        "email": "Juan@gmail.com",
+        "artistas_favoritos": [
+            "Ariana Grande"
+        ],
+        "canciones_favoritas": [
+            "Hours"
+        ],
+        "id": 1
+    },
+    "2": {
+        "id": 2,
+        "name": "Ana",
+        "email": "SoyAna@gmail.com",
+        "artistas_favoritos": [
+            "The Weeknd",
+            "Dimash"
+        ],
+        "canciones_favoritas": [
+            "When I've Got You"
+        ]
+    },
+    "3": {
+        "id": 3,
+        "name": "Laura",
+        "email": "elcorreodelaura@gmail.com",
+        "artistas_favoritos": [
+            "Josh Makazo",
+            "Eminem",
+            "Lana del rey"
+        ],
+        "canciones_favoritas": [
+            "eclipse"
+        ]
+    },
+    "4": {
+        "id": 4,
+        "name": "Maria",
+        "email": "EjemploNoTieneCancionNiArtistaFavoritos@example.com",
+        "canciones_favoritas": [
+            "needy"
+        ]
+    }
+}
